@@ -1,6 +1,6 @@
 # Mobile Apps and Computing Course Projects
 
-This repository contains two Android mobile app projects developed as part of the ASTU (Addis Ababa Science and Technology University) Mobile Apps and Computing course:
+This repository contains two Android mobile app projects developed as part of the ASTU (Adama Science and Technology University) Mobile Apps and Computing course:
 
 1. **BMI Calculator**
 2. **Astu Web App**
